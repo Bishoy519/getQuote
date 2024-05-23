@@ -1,0 +1,8 @@
+.img{
+    overflow: hidden;
+    border-radius: 50%;
+    width: 5%;
+}
+.img img{
+    width: 100%;
+}
